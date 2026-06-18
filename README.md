@@ -24,6 +24,7 @@
    2) Numpy
    3) Pandas
    4) Matplotlib
+   5) Scikit-learn
    
  
 
